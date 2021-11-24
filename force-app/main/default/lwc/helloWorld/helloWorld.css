@@ -1,0 +1,11 @@
+.helloWolrd{
+    background-color: black;
+}
+
+.greetingClass{
+    color:green;
+}
+
+:host{
+    border: 4px solid red;
+}
